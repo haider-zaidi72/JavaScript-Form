@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 20px;
+   }
+#myForm{
+    border: 1px solid;
+    height: 500px;
+    padding: 20px;
+    width:600px;
+    text-align: left;
+    background: linear-gradient(rgb(238, 140, 140) ,rgb(92, 92, 38), rgb(44, 107, 44))
+}
+.field{
+    width: 200px;
+    height: 30px;
+    background-color: lightgray;
+    border-style: none;
+}
+.field1{
+    width: 190px;
+    height: 30px;
+    background-color: lightgray;
+    border-style: none;
+}
+.field2{
+    width: 185px;
+    height: 30px;
+    background-color: lightgray;
+    border-style: none;
+}
+.field3{
+    width: 145px;
+    height: 30px;
+    background-color: lightgray;
+    border-style: none;
+}
+.field4{
+    width: 200px;
+    height: 30px;
+    background-color: lightgray;
+    border-style: none;
+}
+
+  
